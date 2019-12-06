@@ -1,5 +1,5 @@
 # Machine-Learning 
-Various Projects Related to Machine Learning
+Various projects Related to Machine Learning Masters Course.
 1) Logistic Regression for Two Class Classification Problem in Python
 
 2) The project is to implement neural network and convolutional neural network for the task of classification.
